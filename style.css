@@ -1,0 +1,13 @@
+.content {
+    background-color: #800000;
+    border: 2px solid #008000;
+}
+
+.home h1,
+.home a {
+    color: navy;
+}
+
+.home a {
+    text-decoration: none;
+}
